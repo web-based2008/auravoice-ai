@@ -1,0 +1,6 @@
+{
+  "name": "AuraVoice AI",
+  "description": "Futuristic dark-themed AI SaaS featuring multi-language Voice Studios, chat, smart assistants, and API workflows operating entirely under free tiers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
